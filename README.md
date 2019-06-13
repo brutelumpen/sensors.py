@@ -1,3 +1,5 @@
+fork https://github.com/paroj/sensors.py
+
 sensors.py
 ==========
 python bindings using ctypes for libsensors3 of the [lm-sensors project](https://github.com/groeck/lm-sensors). The code was written against libsensors 3.3.4.  
